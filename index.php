@@ -106,7 +106,7 @@ $serverSoftware = $_SERVER['SERVER_SOFTWARE'] ?? 'Unknown Server';
     <div class="card">
         <div class="badge">
             <span class="badge-dot"></span>
-            ⚡ Live Update Tested by Vikash Testing
+            ⚡ Live Update Tested by Vikash Testing toddayy
         </div>
         <h1>Hello Vikash! Auto-Deploy Bilkul Mast Kaam Kar Raha Hai! 🔥</h1>
         <p class="subtitle">
