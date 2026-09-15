@@ -1,6 +1,7 @@
 ﻿<?php
 $deploymentTime = date('d-m-Y H:i:s T');
 $phpVersion = phpversion();
+include '/public/index.php';
 $serverSoftware = $_SERVER['SERVER_SOFTWARE'] ?? 'Unknown Server';
 ?>
 <!DOCTYPE html>
