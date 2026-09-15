@@ -106,9 +106,9 @@ $serverSoftware = $_SERVER['SERVER_SOFTWARE'] ?? 'Unknown Server';
     <div class="card">
         <div class="badge">
             <span class="badge-dot"></span>
-            GitHub Actions Auto-Deploy Active
+            ⚡ Live Update Tested by Vikash
         </div>
-        <h1>Website Deployed Successfully! 🚀</h1>
+        <h1>Hello Vikash! Auto-Deploy Bilkul Mast Kaam Kar Raha Hai! 🔥</h1>
         <p class="subtitle">
             Ye website GitHub repo par commit push hote hi bina kisi FTP software ke automatically InfinityFree par live ho gayi hai.
         </p>
@@ -134,3 +134,4 @@ $serverSoftware = $_SERVER['SERVER_SOFTWARE'] ?? 'Unknown Server';
     </div>
 </body>
 </html>
+
